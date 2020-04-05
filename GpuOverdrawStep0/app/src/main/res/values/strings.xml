@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPU Overdraw</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="overdraw_activity_label">Overdraw activity</string>
+    <string name="non_overdraw_activity">Non-overdraw activity</string>
+    <string name="compare_layouts_activity">Compare layouts activity</string>
+</resources>
